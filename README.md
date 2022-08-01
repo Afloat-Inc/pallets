@@ -1,4 +1,4 @@
-## Hashed Chain
+## Afloat Pallets
 
 ### [Open Hashed Chain on polkadot.js.org](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fn1.hashed.systems#/explorer)
 
